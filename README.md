@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **suyashpatil400/suyashpatil400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
